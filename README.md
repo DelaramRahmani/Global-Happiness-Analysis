@@ -45,5 +45,3 @@ The interactive Tableau dashboard presents a visually compelling representation 
 
 **View the Tableau Storyboard here:** (https://public.tableau.com/views/Temporary_17407411557570/GlobalHappinessAnalysisFinalReport?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
-
